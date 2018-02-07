@@ -1,0 +1,25 @@
+{
+  "name": "websocket_node",
+  "version": "1.0.0",
+  "description": "websocket",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "http": "0.0.0",
+    "ws": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djv9/websocket_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djv9/websocket_node/issues"
+  },
+  "homepage": "https://github.com/djv9/websocket_node#readme"
+}
